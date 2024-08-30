@@ -1,5 +1,6 @@
 # Space-Invader
 ## Warning: This project is still in development. Core features are not implemented.
+![image](https://github.com/user-attachments/assets/47aaf121-fd4c-42a4-a4a8-3d879cb251cf)
 
 # Welcome!
 Space-Invader is a mobile phone shooter game inspired by the original Space Invaders written with c# in Unity.
