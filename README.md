@@ -1,21 +1,41 @@
-# Space-Invader
-## Warning: This project is still in development. Core features are not implemented.
-![image](https://github.com/user-attachments/assets/47aaf121-fd4c-42a4-a4a8-3d879cb251cf)
+# Space-Invaders Mobilw in Unity3D
 
-# Welcome!
-Space-Invader is a mobile phone shooter game inspired by the original Space Invaders written with c# in Unity.
+This project is still in development. 
+
+## Welcome!
+
+**Space-Invader** is a mobile shooter game inspired by the classic **Space Invaders**, written in C# using Unity. This project is part of an ongoing effort to learn and refine skills within the Unity game engine. It serves as both an educational tool and a foundation for future game development endeavors.
+
+## Features
+
+- **Classic Gameplay:** Inspired by the original Space Invaders, bringing the nostalgia of retro gaming to mobile devices.
+- **Custom Input Controls:** The game supports standard Unity inputs, with player movement via on-screen buttons or keyboard (W, A, S, D or arrow keys).
+- **Menu Navigation:** Access the main menu by pressing `escape`, with further options for game settings and controls.
+
+## Screenshots
+https://github.com/user-attachments/assets/47aaf121-fd4c-42a4-a4a8-3d879cb251cf
+![Screenshot 1](https://github.com/user-attachments/assets/1769ea3c-ff40-4324-b2b1-8310fdfb109f)
+![Screenshot 2](https://github.com/user-attachments/assets/89132de0-c338-4a9f-a376-217e48d4aad5)
+![Screenshot 3](https://github.com/user-attachments/assets/fe74e360-b27d-4704-a1f5-3f749ab00d02)
 
 ## Motivation
 
-This project is used to learn and improve our skills for the Unity game engine. Feel free to learn with us!
+This project was developed as a learning exercise to deepen our understanding of the Unity game engine and C# programming. It is also an opportunity to experiment with classic game mechanics and adapt them to modern platforms, such as mobile devices.
 
-## Navigation
-The game uses standard input from unity.
+## Technical Details
 
-Currently, player movement is achieved via pressing buttons or using a keyboard (Keys are w, a, s, d or arrow keys).
-Press `escape` to get to the main menu.
+- **Unity Version:** The project is built with Unity version **2020.2.1f1**. It is recommended to use this version for development to ensure compatibility and stability.
+- **Game Structure:** The game uses a standard project setup, with scripts organized by functionality, including player movement, enemy behavior, and UI management.
 
-# Building the project
-Currently, the project builds with Unity version 2020.2.1f1. Please make your changes within this version.
+## Building the Project
 
-# You run this game at your own risk!
+To build and run this project:
+
+1. Clone the repository to your local machine.
+2. Open the project in Unity **2020.2.1f1**.
+3. Use the Unity editor to make any necessary changes or build the project for your target platform.
+
+## You run this game at your own risk!
+
+While we strive to maintain high-quality code and a smooth user experience, this project is still in development. Core features are incomplete, and you may encounter bugs or performance issues.
+
