@@ -1,4 +1,4 @@
-# Space-Invaders Mobilw in Unity3D
+# Space-Invaders Mobile in Unity3D
 
 This project is still in development. 
 
@@ -10,13 +10,13 @@ This project is still in development.
 
 - **Classic Gameplay:** Inspired by the original Space Invaders, bringing the nostalgia of retro gaming to mobile devices.
 - **Custom Input Controls:** The game supports standard Unity inputs, with player movement via on-screen buttons or keyboard (W, A, S, D or arrow keys).
-- **Menu Navigation:** Access the main menu by pressing `escape`, with further options for game settings and controls.
+- **Menu Navigation:** Access the main menu by pressing `escape`or back button on mobile, with further options for game settings and controls.
 
 ## Screenshots
-https://github.com/user-attachments/assets/47aaf121-fd4c-42a4-a4a8-3d879cb251cf
-![Screenshot 1](https://github.com/user-attachments/assets/1769ea3c-ff40-4324-b2b1-8310fdfb109f)
-![Screenshot 2](https://github.com/user-attachments/assets/89132de0-c338-4a9f-a376-217e48d4aad5)
-![Screenshot 3](https://github.com/user-attachments/assets/fe74e360-b27d-4704-a1f5-3f749ab00d02)
+![Screenshot 1](https://github.com/user-attachments/assets/47aaf121-fd4c-42a4-a4a8-3d879cb251cf)
+![Screenshot 2](https://github.com/user-attachments/assets/1769ea3c-ff40-4324-b2b1-8310fdfb109f)
+![Screenshot 3](https://github.com/user-attachments/assets/89132de0-c338-4a9f-a376-217e48d4aad5)
+![Screenshot 4](https://github.com/user-attachments/assets/fe74e360-b27d-4704-a1f5-3f749ab00d02)
 
 ## Motivation
 
